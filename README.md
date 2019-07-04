@@ -1,1 +1,3 @@
-"# demo_merge_strategy" 
+"# demo_merge_strategy"
+
+added few more lines
