@@ -1,1 +1,1 @@
-"# demo_merge_strategy" 
+# demo_merge_strategy
