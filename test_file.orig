@@ -1,0 +1,6 @@
+this is a sample file 
+<<<<<<< HEAD
+I changed file
+=======
+completly new line
+>>>>>>> added new line to file
